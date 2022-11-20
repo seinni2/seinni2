@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HanSein&fontSize=90" />
 
 
-💻I'm Junior Develpoer SeinHan
+💻 Junior Develpoer SeinHan
 ---      
 <br>
 <h3>🎓 교육과정수료</h3>
